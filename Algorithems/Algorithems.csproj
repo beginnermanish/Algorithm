@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Algorithems.KnightBFS</StartupObject>
+    <StartupObject>Algorithems.GraphProblem</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -61,6 +61,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GraphProblem.cs" />
     <Compile Include="Gridland-Metro.cs" />
     <Compile Include="Icecream_parlor.cs" />
     <Compile Include="InterviewTest.cs" />

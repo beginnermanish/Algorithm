@@ -4,3 +4,10 @@ E:\PProj\Algorithems\Algorithems\bin\Debug\Algorithems.pdb
 E:\PProj\Algorithems\Algorithems\obj\Debug\Algorithems.csprojResolveAssemblyReference.cache
 E:\PProj\Algorithems\Algorithems\obj\Debug\Algorithems.exe
 E:\PProj\Algorithems\Algorithems\obj\Debug\Algorithems.pdb
+D:\Projects\Algorithems\Algorithems\obj\Debug\Algorithems.csprojResolveAssemblyReference.cache
+D:\Projects\Algorithems\Algorithems\obj\Debug\Algorithems.csproj.CoreCompileInputs.cache
+D:\Projects\Algorithems\Algorithems\obj\Debug\Algorithems.exe
+D:\Projects\Algorithems\Algorithems\obj\Debug\Algorithems.pdb
+D:\Projects\Algorithems\Algorithems\bin\Debug\Algorithems.exe.config
+D:\Projects\Algorithems\Algorithems\bin\Debug\Algorithems.exe
+D:\Projects\Algorithems\Algorithems\bin\Debug\Algorithems.pdb
